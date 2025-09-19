@@ -28,7 +28,11 @@ Icon for Red: 🔴
 Icon for Black: ⚫
 Icon for Blank space: ⬜
 
-## Theaming
+Please create a new project vite and the 
+
+![til](./demo-connect-four.gif)
+
+## Themeing
 You should also include the ability to change the color of the primary/main palette to purple(500) and green(500). This doesn't need to be dynamic, its ok to make it a constant variable and refresh the screen to show the new palette.
 
 
