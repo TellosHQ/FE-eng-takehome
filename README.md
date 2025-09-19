@@ -3,8 +3,8 @@
 Welcome to the Tellos Frontend Engineer Takehome Test! This test is designed to evaluate your ability to use Typescript, React and MUI. Your submission will be judged against these criteria:
 
 1. The simplicity of your solution (simpler is better)
-2. How closely your solution mirrors the screenshots provided. Spacing and reactivity is important!
-3. Appropriate use Typescript types (submissions that contain use of the `any` type will be rejected)
+2. How closely your solution mirrors the screenshots provided. Spacing and reactivity are important!
+3. Appropriate use of Typescript types (submissions that contain use of the `any` type will be rejected)
 4. Appropriate use of MUI components (particularly Grid and Button)
 5. Tests are a bonus
 
