@@ -24,7 +24,7 @@ When a winner is found:
 2. The winner is displayed
 3. The reset button switches to "New Game"
 
-The title should stay in place when the window is resized. The board should track to the center of the window during a resize.
+The title should stay in place when the window is resized. The board should track to the center of the window during a resize, both horizontally and vertically.
 
 Icon for Red: 🔴
 Icon for Black: ⚫
